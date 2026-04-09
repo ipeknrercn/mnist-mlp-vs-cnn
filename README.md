@@ -227,7 +227,7 @@ scikit-learn
 ```
 
 ---
-
+Kaggle link: https://www.kaggle.com/code/ipekercan/deep-learning?scriptVersionId=310203833
 ---
 
 ## References
